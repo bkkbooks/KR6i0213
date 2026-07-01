@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0213/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說八師經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0581.xml
+    old_id: T14n0581
+hash: sha256:c2691584a4930251d8cbaef505de4dfbac6cbed351c847b4ad4d38b3c50e3802

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0213/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6i0213_T_000-0965a, 'n': 0965a, ed: T, source_xml_id: T14.0581.0965a}
+  - {type: line-break, offset: 0, content: '', id: KR6i0213_T_000-0965a01, ed: T, 'n': 0965a01}
+  - {type: line-break, offset: 0, content: '', id: KR6i0213_T_000-0965a02, ed: T, 'n': 0965a02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6i0213_T_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6i0213_T_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6i0213_T_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '5', id: KR6i0213_T_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '8', id: KR6i0213_T_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '1', id: KR6i0213_T_000-bkkpn6}
+  - {type: line-break, offset: 0, content: '', id: KR6i0213_T_000-0965a03, ed: T, 'n': 0965a03}
+  body: []
+  back: []
+hash: sha256:78d93568071f57a3b7a0ee5310da875d30986c97cf38ac378668f610f8e377b1
